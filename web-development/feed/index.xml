@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Web-development	</title>
+	<atom:link href="https://rubel-ahmead.github.io/wordpressfor/web-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rubel-ahmead.github.io/wordpressfor/web-development/</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Aug 2023 12:11:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+	<item>
+		<title>
+		By: rubel		</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/web-development/#comment-3</link>
+
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:11:06 +0000</pubDate>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=144#comment-3</guid>
+
+					<description><![CDATA[by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.]]></description>
+			<content:encoded><![CDATA[<p>by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: rubel		</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/web-development/#comment-2</link>
+
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:10:44 +0000</pubDate>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=144#comment-2</guid>
+
+					<description><![CDATA[y English versions from the 1914 translation by H. Rackham.]]></description>
+			<content:encoded><![CDATA[<p>y English versions from the 1914 translation by H. Rackham.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

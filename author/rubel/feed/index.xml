@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rubel</title>
+	<atom:link href="https://rubel-ahmead.github.io/wordpressfor/author/rubel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rubel-ahmead.github.io/wordpressfor</link>
+	<description></description>
+	<lastBuildDate>Sat, 14 Oct 2023 05:44:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>https://rubel-ahmead.github.io/wordpressfor/wp-content/uploads/2023/08/cropped-bird-colorful-logo-gradient-vector_343694-1365-32x32.webp</url>
+	<title>rubel</title>
+	<link>https://rubel-ahmead.github.io/wordpressfor</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Company Studies</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/company-studies/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/company-studies/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2023 05:44:17 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=976</guid>
+
+					<description><![CDATA[Hello my dear frends hope you are doing well]]></description>
+										<content:encoded><![CDATA[
+<p>Hello my dear frends hope you are doing well </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/company-studies/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Where does it ?</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/where-does-it/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/where-does-it/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2023 11:34:41 +0000</pubDate>
+				<category><![CDATA[Web-development]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=220</guid>
+
+					<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the  majority have suffered alteration in some form, by injected humour, or  randomised words which don't look even slightly believable. If you are  going to use a]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="220" class="elementor elementor-220">
+							<div class="elementor-element elementor-element-a3bda41 e-flex e-con-boxed wpr-particle-no wpr-sticky-section-no e-con e-parent" data-id="a3bda41" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4790af3 wpr-main-menu-align-left wpr-main-menu-align--tabletleft wpr-main-menu-align--mobileleft wpr-pointer-underline wpr-pointer-line-fx wpr-pointer-fx-fade wpr-sub-icon-caret-down wpr-sub-menu-fx-fade wpr-nav-menu-bp-tablet wpr-mobile-menu-display-dropdown wpr-mobile-menu-full-width wpr-mobile-toggle-v1 wpr-sub-divider-yes wpr-mobile-divider-yes elementor-widget elementor-widget-wpr-mega-menu" data-id="4790af3" data-element_type="widget" data-settings="{&quot;menu_layout&quot;:&quot;horizontal&quot;}" data-widget_type="wpr-mega-menu.default">
+				<div class="elementor-widget-container">
+			<nav class="wpr-nav-menu-container wpr-mega-menu-container wpr-nav-menu-horizontal" data-trigger="hover"><ul id="menu-1-4790af3" class="wpr-nav-menu wpr-mega-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-24"><a href="https://rubel-ahmead.github.io/wordpressfor/" class="wpr-menu-item wpr-pointer-item menu-link"><span>Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-20"><a href="https://rubel-ahmead.github.io/wordpressfor/blog/" class="wpr-menu-item wpr-pointer-item menu-link"><span>Blog</span><i class="wpr-sub-icon fas" aria-hidden="true"></i></a>
+<ul  class="sub-menu wpr-sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="https://rubel-ahmead.github.io/wordpressfor/category/graphis-desing/" class="wpr-sub-menu-item menu-link"><span>Graphis Desing</span></a>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="https://rubel-ahmead.github.io/wordpressfor/category/web-development/" class="wpr-sub-menu-item menu-link"><span>Web-development</span></a>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138"><a href="https://rubel-ahmead.github.io/wordpressfor/category/uncategorized/" class="wpr-sub-menu-item menu-link"><span>Uncategorized</span></a></ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item-has-children wpr-mega-menu-true wpr-mega-menu-pos-default wpr-mega-menu-width-custom" data-custom-width="1000" data-id="23"><a href="https://rubel-ahmead.github.io/wordpressfor/about/" class="wpr-menu-item wpr-pointer-item menu-link"><span>About</span><i class="wpr-sub-icon fas" aria-hidden="true"></i></a><div class="wpr-sub-mega-menu">		<div data-elementor-type="wp-post" data-elementor-id="275" class="elementor elementor-275">
+							<div class="elementor-element elementor-element-8d60beb e-flex e-con-boxed wpr-particle-no wpr-sticky-section-no e-con e-parent" data-id="8d60beb" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e25816e elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="e25816e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 09-10-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="400" height="400" src="https://rubel-ahmead.github.io/wordpressfor/wp-content/uploads/2023/09/Team-1.jpg" class="attachment-large size-large wp-image-333" alt="" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-ba4e330 e-con-full e-flex wpr-particle-no wpr-sticky-section-no e-con e-child" data-id="ba4e330" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-1c329c9 elementor-widget elementor-widget-heading" data-id="1c329c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 09-10-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Find Workers</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9a376f2 elementor-widget elementor-widget-heading" data-id="9a376f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Never miss a deadline or face a workforce shortage. Partner with us to find workers who can keep your business moving forward.
+
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60ba507 elementor-widget elementor-widget-heading" data-id="60ba507" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Request  Staff Now
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bcc72df elementor-widget elementor-widget-heading" data-id="bcc72df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Our Staffing Solutions
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cd7025a elementor-widget elementor-widget-heading" data-id="cd7025a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Staffing Resources
+</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-524a167 e-con-full e-flex wpr-particle-no wpr-sticky-section-no e-con e-child" data-id="524a167" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-4976173 elementor-widget elementor-widget-heading" data-id="4976173" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Serach Your Job</h4>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://rubel-ahmead.github.io/wordpressfor/sevices/" class="wpr-menu-item wpr-pointer-item menu-link"><span>Sevices</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://rubel-ahmead.github.io/wordpressfor/contact/" class="wpr-menu-item wpr-pointer-item menu-link"><span>Contact</span></a></li>
+</ul></nav><nav class="wpr-mobile-nav-menu-container"><div class="wpr-mobile-toggle-wrap"><div class="wpr-mobile-toggle"><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span><span class="wpr-mobile-toggle-line"></span></div></div><div class="wpr-mobile-mega-menu-wrap "><ul id="mobile-menu-2-4790af3" class="wpr-mobile-nav-menu wpr-mobile-mega-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-24"><a href="https://rubel-ahmead.github.io/wordpressfor/" class="wpr-mobile-menu-item menu-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-20"><a href="https://rubel-ahmead.github.io/wordpressfor/blog/" class="wpr-mobile-menu-item menu-link">Blog<i class="wpr-mobile-sub-icon"></i></a>
+<ul  class="sub-menu wpr-mobile-sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-141"><a href="https://rubel-ahmead.github.io/wordpressfor/category/graphis-desing/" class="wpr-mobile-sub-menu-item menu-link">Graphis Desing</a>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142"><a href="https://rubel-ahmead.github.io/wordpressfor/category/web-development/" class="wpr-mobile-sub-menu-item menu-link">Web-development</a>	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-138"><a href="https://rubel-ahmead.github.io/wordpressfor/category/uncategorized/" class="wpr-mobile-sub-menu-item menu-link">Uncategorized</a></ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23 menu-item-has-children wpr-mega-menu-true" data-id="23"><a href="https://rubel-ahmead.github.io/wordpressfor/about/" class="wpr-mobile-menu-item menu-link">About<i class="wpr-mobile-sub-icon"></i></a><div class="wpr-mobile-sub-mega-menu">		<div data-elementor-type="wp-post" data-elementor-id="275" class="elementor elementor-275">
+							<div class="elementor-element elementor-element-8d60beb e-flex e-con-boxed wpr-particle-no wpr-sticky-section-no e-con e-parent" data-id="8d60beb" data-element_type="container" data-settings="{&quot;container_type&quot;:&quot;flex&quot;,&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e25816e elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="e25816e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="400" height="400" src="https://rubel-ahmead.github.io/wordpressfor/wp-content/uploads/2023/09/Team-1.jpg" class="attachment-large size-large wp-image-333" alt="" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-ba4e330 e-con-full e-flex wpr-particle-no wpr-sticky-section-no e-con e-child" data-id="ba4e330" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-1c329c9 elementor-widget elementor-widget-heading" data-id="1c329c9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Find Workers</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9a376f2 elementor-widget elementor-widget-heading" data-id="9a376f2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Never miss a deadline or face a workforce shortage. Partner with us to find workers who can keep your business moving forward.
+
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60ba507 elementor-widget elementor-widget-heading" data-id="60ba507" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Request  Staff Now
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bcc72df elementor-widget elementor-widget-heading" data-id="bcc72df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Our Staffing Solutions
+</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cd7025a elementor-widget elementor-widget-heading" data-id="cd7025a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Staffing Resources
+</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-524a167 e-con-full e-flex wpr-particle-no wpr-sticky-section-no e-con e-child" data-id="524a167" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;container_type&quot;:&quot;flex&quot;}">
+				<div class="elementor-element elementor-element-4976173 elementor-widget elementor-widget-heading" data-id="4976173" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Serach Your Job</h4>		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://rubel-ahmead.github.io/wordpressfor/sevices/" class="wpr-mobile-menu-item menu-link">Sevices</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://rubel-ahmead.github.io/wordpressfor/contact/" class="wpr-mobile-menu-item menu-link">Contact</a></li>
+</ul></div></nav>		</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/where-does-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Where does it come from?</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/where-does-it-come-from/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/where-does-it-come-from/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Fri, 25 Aug 2023 11:31:18 +0000</pubDate>
+				<category><![CDATA[Graphis Desing]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=218</guid>
+
+					<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, &#8230;<p class="read-more"> <a class="" href="https://rubel-ahmead.github.io/wordpressfor/where-does-it-come-from/"> <span class="screen-reader-text">Where does it come from?</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of &#8220;de Finibus Bonorum et Malorum&#8221; (The Extremes of Good and Evil) by Cicero</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/where-does-it-come-from/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web-development</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/web-development-3/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/web-development-3/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:07:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=148</guid>
+
+					<description><![CDATA[&#8220;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, &#8230;<p class="read-more"> <a class="" href="https://rubel-ahmead.github.io/wordpressfor/web-development-3/"> <span class="screen-reader-text">Web-development</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/web-development-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web-development</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/web-development-2/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/web-development-2/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:06:48 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=146</guid>
+
+					<description><![CDATA[&#8220;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, &#8230;<p class="read-more"> <a class="" href="https://rubel-ahmead.github.io/wordpressfor/web-development-2/"> <span class="screen-reader-text">Web-development</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/web-development-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Web-development</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/web-development/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/web-development/#comments</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:05:11 +0000</pubDate>
+				<category><![CDATA[Web-development]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=144</guid>
+
+					<description><![CDATA[The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &#8220;de Finibus Bonorum et Malorum&#8221; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.]]></description>
+										<content:encoded><![CDATA[
+<p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from &#8220;de Finibus Bonorum et Malorum&#8221; by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/web-development/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Learn Graphics Design</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/learn-graphics-design/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/learn-graphics-design/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 12:01:55 +0000</pubDate>
+				<category><![CDATA[Graphis Desing]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=139</guid>
+
+					<description><![CDATA[There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle &#8230;<p class="read-more"> <a class="" href="https://rubel-ahmead.github.io/wordpressfor/learn-graphics-design/"> <span class="screen-reader-text">Learn Graphics Design</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don&#8217;t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn&#8217;t anything embarrassing hidden in the middle of text.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/learn-graphics-design/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lorem Ipsum</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/lorem-ipsum/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/lorem-ipsum/#respond</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Tue, 22 Aug 2023 11:36:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=129</guid>
+
+					<description><![CDATA[ Lorem Ipsum is that it has a more-or-less  normal distribution of letters, as opposed to using 'Content here, content here', making it look]]></description>
+										<content:encoded><![CDATA[
+<p class="dd has-black-color has-text-color has-background has-small-font-size" style="background-color:#bacfe5;padding-top:0;padding-bottom:0"><strong>It is a long</strong> established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less  normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/lorem-ipsum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://rubel-ahmead.github.io/wordpressfor/hello-world/</link>
+					<comments>https://rubel-ahmead.github.io/wordpressfor/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[rubel]]></dc:creator>
+		<pubDate>Sat, 19 Aug 2023 17:33:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rubel-ahmead.github.io/wordpressfor/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rubel-ahmead.github.io/wordpressfor/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
